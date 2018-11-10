@@ -1,0 +1,43 @@
+body{
+    background-image: url("./videos/birthday-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul{
+    list-style: none;
+    color: white;
+}
+
+.p-1{
+    color: blue;
+    font-weight: bold;
+}
+
+.p-2{
+    color: mintcream;
+    font-weight: bold;
+}
+
+.p-3{
+    color: aqua;
+    font-weight: bold;
+}
+
+.title{
+    color: darkorchid;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.section-title{
+    color: lawngreen;
+}
+
+.section-title-2{
+    color: crimson;
+}
+
+.section-title-3{
+    color: darkorange;
+}
